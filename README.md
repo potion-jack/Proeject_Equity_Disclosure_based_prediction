@@ -1,4 +1,6 @@
 # 주요주주 지분공시에 따른 주가 추이 예측
+(2022.11.03~2022.11.18)
+(group project 6)
 
 ### Raw_data
 - all_ent.csv -> samsung.csv
