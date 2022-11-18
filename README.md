@@ -1,12 +1,11 @@
 # 주요주주 지분공시에 따른 주가 추이 예측
 
 ### Raw_data
-- all_ent -> samsung
-- stock_code ->samsung_price
-- samsung + samsung_price -> weighted_data, y_data
+- all_ent.csv -> samsung.csv
+- stock_code ->samsung_price.csv
+- samsung.csv + samsung_price.csv -> weighted_data.csv, y_data.csv
 
 ### Library
-- re, 
 - numpy, pandas
 - scikit-learn, optuna, mlxtend, eli5
 
