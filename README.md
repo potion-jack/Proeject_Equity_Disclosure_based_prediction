@@ -67,12 +67,12 @@
 
 
 #### Library versions
-Package                                           Version
+- Package                                           Version
 ------------------------------------------------- -----------
-eli5                                              0.13.0
-numpy                                             1.23.3
-optuna                                            3.0.3
-pandas                                            1.5.0
-scikit-learn                                      1.1.3
-scipy                                             1.8.1
-xgboost                                           1.7.1
+- eli5                                              0.13.0
+- numpy                                             1.23.3
+- optuna                                            3.0.3
+- pandas                                            1.5.0
+- scikit-learn                                      1.1.3
+- scipy                                             1.8.1
+- xgboost                                           1.7.1
