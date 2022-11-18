@@ -3,13 +3,17 @@
 ### raw_data
 - all_ent -> samsung
 - stock_code ->samsung_price
-
 - samsung + samsung_price -> weighted_data, y_data
 
-### models
+### Library
+- re, 
+- numpy, pandas
+- scikit-learn, optuna, mlxtend, eli5
+
+### Models
 
 - scikit-learn
--   - [RandomForestClassifier(), GradientBoostingClassifier(), ExtraTreesClassifier()]
+-   - [RandomForestClassifier, GradientBoostingClassifier, ExtraTreesClassifier]
 - Xgboost
 -   - XGBClassifier
 - optuna
@@ -48,15 +52,26 @@
 
 ```
 
-#### data
+#### Data
 
 <img width="1728" alt="Screen Shot 2022-11-18 at 14 41 50" src="https://user-images.githubusercontent.com/112222918/202629549-cf946fb3-6e84-4907-ad3b-dc9b617b531e.png">
 
-#### data_setting
+#### Data_setting
 <img width="1728" alt="Screen Shot 2022-11-18 at 14 42 31" src="https://user-images.githubusercontent.com/112222918/202629671-7aad3bdb-84b2-47b1-aeba-4c362563db5c.png">
 
-#### modeling_method
+#### Modeling method
 <img width="1728" alt="Screen Shot 2022-11-18 at 14 42 00" src="https://user-images.githubusercontent.com/112222918/202629652-c395083a-135e-4735-809c-cbb0ed16ab59.png">
 
 
 
+
+#### Library versions
+Package                                           Version
+------------------------------------------------- -----------
+eli5                                              0.13.0
+numpy                                             1.23.3
+optuna                                            3.0.3
+pandas                                            1.5.0
+scikit-learn                                      1.1.3
+scipy                                             1.8.1
+xgboost                                           1.7.1
