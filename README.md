@@ -28,6 +28,7 @@
 │   ├── 2_parameter_tuning.ipynb
 │   └── 2_parameter_tuning_colab.ipynb
 ├── 4_presentation
+│   └── _ppt.pdf
 ├── README.md
 └── data
     ├── preprocessed_data
@@ -43,7 +44,8 @@
         └── stock_code
             └── 005930.csv
 
-8 directories, 17 files
+8 directories, 18 files
+
 ```
 
 #### data
