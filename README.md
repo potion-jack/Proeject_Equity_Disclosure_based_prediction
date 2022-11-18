@@ -44,5 +44,17 @@
             └── 005930.csv
 
 8 directories, 17 files
-
 ```
+
+#### data
+
+<img width="1728" alt="Screen Shot 2022-11-18 at 14 41 50" src="https://user-images.githubusercontent.com/112222918/202629549-cf946fb3-6e84-4907-ad3b-dc9b617b531e.png">
+
+#### data_setting
+<img width="1728" alt="Screen Shot 2022-11-18 at 14 42 31" src="https://user-images.githubusercontent.com/112222918/202629671-7aad3bdb-84b2-47b1-aeba-4c362563db5c.png">
+
+#### modeling_method
+<img width="1728" alt="Screen Shot 2022-11-18 at 14 42 00" src="https://user-images.githubusercontent.com/112222918/202629652-c395083a-135e-4735-809c-cbb0ed16ab59.png">
+
+
+
